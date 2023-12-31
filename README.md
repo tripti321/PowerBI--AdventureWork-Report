@@ -37,7 +37,7 @@ Contributions and improvements to the Adventure Works Power BI Dashboard are hig
 
 # Snapshot of Dashboard (Power BI Service)
 
-<img width="708" alt="Dashboard_snap" src="https://github.com/tripti321/PowerBI--AdventureWork-Report/assets/133581160/ce2a435c-232e-4ef0-8ddf-1d05754e58c5">
+<img width="685" alt="Dashboard_snap2" src="https://github.com/tripti321/PowerBI--AdventureWork-Report/assets/133581160/8948ae44-aba3-4084-b326-006ada9bb09a">
 
 
 
