@@ -36,11 +36,21 @@ Contributions and improvements to the Adventure Works Power BI Dashboard are hig
 
 
 # Snapshot of Dashboard (Power BI Service)
+1. Exec Dashboard:
 
 <img width="685" alt="Dashboard_snap2" src="https://github.com/tripti321/PowerBI--AdventureWork-Report/assets/133581160/8948ae44-aba3-4084-b326-006ada9bb09a">
 
+2.Map :
 
+<img width="761" alt="Map" src="https://github.com/tripti321/PowerBI--AdventureWork-Report/assets/133581160/befabc60-f47e-4785-bfcc-1c0d6f0d5e00">
 
+3.Product Detail :
+
+<img width="709" alt="Product Detail" src="https://github.com/tripti321/PowerBI--AdventureWork-Report/assets/133581160/5bc8651a-8cdc-49d4-acb7-e03e286352e0">
+
+4.Customer Detail :
+
+<img width="710" alt="Customer Detail" src="https://github.com/tripti321/PowerBI--AdventureWork-Report/assets/133581160/c14d8102-31a9-4e54-9aa4-9d197e0134e1">
 
 We hope this Power BI dashboard provides valuable insights into the Adventure Works dataset and serves as a useful reference for Power BI enthusiasts.
 
